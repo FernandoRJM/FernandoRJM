@@ -21,7 +21,7 @@ Aquí puedes explorar mis proyectos de código abierto más recientes, enfocados
     ¿En qué consiste? Análisis exploratorio (EDA) y modelamiento predictivo basado en Árboles de Decisión para evaluar el riesgo de incidentes (escala 0-5) en el transporte de víveres para la industria acuícola.
     * *Impacto:* Identificación de cuellos de botella geográficos y ventanas horarias críticas de entrega.
 
-2.  **[Alden: Sistema Predictivo de Riesgo Logístico Acuícola]([https://github.com/FernandoRJM/alden-riesgo-logistico](https://github.com/FernandoRJM/Alden-Sistema-Predictivo-de-Riesgo-Log-stico-Acu-cola))**
+2.  **[Alden: Sistema Predictivo de Riesgo Logístico Acuícola](https://github.com/FernandoRJM/alden-riesgo-logistico](https://github.com/FernandoRJM/Alden-Sistema-Predictivo-de-Riesgo-Log-stico-Acu-cola))**
     ¿En qué consiste? Asistente interactivo inteligente que integra variables meteorológicas en tiempo real mediante APIs y aplica el algoritmo de seguridad adaptativo *"Windy-Adapt"* para estimar la viabilidad del zarpe de embarcaciones.
 
 ---
