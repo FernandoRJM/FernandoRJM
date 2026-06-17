@@ -1,4 +1,4 @@
-# ¡Hola! Soy un apasionado por los Datos y la Estrategia
+# Te cuento un poco sobre mí
 
 Me especializo en la intersección entre la Ingeniería Comercial y la Ciencia de Datos, aplicando modelos avanzados de Machine Learning para optimizar operaciones logísticas, automatizar decisiones complejas y generar valor económico medible en industrias estratégicas.
 
